@@ -6,7 +6,7 @@
 package javaapplication83;
 
 /**
- *
+ *to print 1 2 coza 4 stream
  * @author CrJ
  */
 public class JavaApplication83 {
